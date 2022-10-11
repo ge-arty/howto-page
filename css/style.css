@@ -203,3 +203,12 @@ h6 {
     justify-content: center;
   }
 }
+
+@media (max-width: 1024px) {
+  .content {
+    justify-content: center;
+  }
+  .theme-title {
+    justify-content: center;
+  }
+}
