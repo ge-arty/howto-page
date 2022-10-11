@@ -1,0 +1,33 @@
+.container {
+  max-width: 1920px;
+  width: 100%;
+  margin: 0 auto;
+}
+header {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 50px 0;
+}
+.logo {
+  width: 30%;
+}
+.logo img {
+  width: 120px;
+  height: 95px;
+}
+nav {
+  width: 60%;
+}
+ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.search img {
+  width: 25px;
+  height: 25px;
+}
